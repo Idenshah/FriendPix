@@ -77,10 +77,10 @@ FriendPix is a multi-page, responsive web application inspired by early versions
    cd FriendPix
 2. **Set up the Database**:  
 
-1. **Import the database**:  
+- **Import the database**:  
    Import the `friendpix.sql` file located in the `database/` folder using **PHPMyAdmin** or **MySQL CLI**.
 
-2. **Update database credentials**:  
+- **Update database credentials**:  
    Update the database credentials in the `config.php` file to match your environment.
 
 ---
