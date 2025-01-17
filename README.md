@@ -75,7 +75,7 @@ FriendPix is a multi-page, responsive web application inspired by early versions
    ```bash
    git clone https://github.com/Idenshah/FriendPix.git
    cd FriendPix
-2. **Set up the Database
+2. **Set up the Database**:  
 
 1. **Import the database**:  
    Import the `friendpix.sql` file located in the `database/` folder using **PHPMyAdmin** or **MySQL CLI**.
@@ -106,13 +106,6 @@ FriendPix is a multi-page, responsive web application inspired by early versions
 4. Upload photos and manage privacy settings.  
 5. Send and respond to friendship invitations.  
 6. Share comments on public albums with friends.
-
----
-
-## Screenshots
-
-_A sample screenshot of the FriendPix homepage._  
-![Homepage Screenshot](assets/images/homepage.png)
 
 ---
 
